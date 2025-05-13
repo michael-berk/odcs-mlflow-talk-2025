@@ -1,0 +1,28 @@
+digest: 1a14123d
+name: dataset
+profile: '{"num_rows": 5, "num_elements": 10}'
+schema: '{"mlflow_colspec": [{"type": "string", "name": "inputs", "required": true},
+  {"type": "object", "properties": {"": {"type": "string", "required": false}, "BRAND":
+  {"type": "string", "required": false}, "BRAND NAME:": {"type": "string", "required":
+  false}, "CASE NAME:": {"type": "string", "required": false}, "CASE TYPE:": {"type":
+  "string", "required": false}, "CC:": {"type": "string", "required": false}, "COMMENTS":
+  {"type": "string", "required": false}, "COMPOUND NAME": {"type": "string", "required":
+  false}, "COURT:": {"type": "string", "required": false}, "DATE": {"type": "string",
+  "required": false}, "DATE SERVED": {"type": "string", "required": false}, "DATE:":
+  {"type": "string", "required": false}, "ESTIMATED TOXICITY CLASS": {"type": "string",
+  "required": false}, "FAX NO.": {"type": "string", "required": false}, "FAX NUMBER:":
+  {"type": "string", "required": false}, "Fax:": {"type": "string", "required": false},
+  "LORILLARD ENTITIES": {"type": "string", "required": false}, "LORILLARO COMPOUND
+  CODE NUMBER": {"type": "string", "required": false}, "MANUFACTURER:": {"type": "string",
+  "required": false}, "NOTE:": {"type": "string", "required": false}, "NUMBER OF PAGES
+  INCLUDING COVER SHEET:": {"type": "string", "required": false}, "OTHER INFORMATION:":
+  {"type": "string", "required": false}, "PHONE NUMBER:": {"type": "string", "required":
+  false}, "PLAINTIEE''S COUNSEL:": {"type": "string", "required": false}, "REPORTED
+  BY:": {"type": "string", "required": false}, "Research Chemist": {"type": "string",
+  "required": false}, "SENDER /PHONE NUMBER:": {"type": "string", "required": false},
+  "SOURCE OF INFORMATION:": {"type": "string", "required": false}, "STRUCTURE": {"type":
+  "string", "required": false}, "TO:": {"type": "string", "required": false}, "cc:":
+  {"type": "string", "required": false}}, "name": "truth", "required": true}]}'
+source: '{"tags": {"mlflow.user": "michael.berk", "mlflow.source.name": "/Users/michael.berk/opt/anaconda3/envs/odsc-3.10/lib/python3.10/site-packages/ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

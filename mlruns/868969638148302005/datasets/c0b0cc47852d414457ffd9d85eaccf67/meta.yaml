@@ -1,0 +1,37 @@
+digest: 489b035c
+name: dataset
+profile: '{"num_rows": 5, "num_elements": 10}'
+schema: '{"mlflow_colspec": [{"type": "string", "name": "inputs", "required": true},
+  {"type": "object", "properties": {"# REPS:": {"type": "string", "required": false},
+  "40c OFF PACK- GENERAL MARKET:": {"type": "string", "required": false}, "AD#:":
+  {"type": "string", "required": false}, "ADVERTISER:": {"type": "string", "required":
+  false}, "ATTN:": {"type": "string", "required": false}, "BRAND:": {"type": "string",
+  "required": false}, "CAPTION:": {"type": "string", "required": false}, "CHAINS -
+  ACCEPTANCE/ MERCHANDISING ALLOWANCE": {"type": "string", "required": false}, "Company:":
+  {"type": "string", "required": false}, "DATE:": {"type": "string", "required": false},
+  "DEC 21": {"type": "string", "required": false}, "DIRECT ACCOUNT CHAINS:": {"type":
+  "string", "required": false}, "DIRECT ACCOUNT/ WHOLESALERS:": {"type": "string",
+  "required": false}, "DISTRIBUTOR INVOLVEMENT:": {"type": "string", "required": false},
+  "DISTRIBUTORS - ACCEPTANCE/ INTRO TERMS/ INTRO DEALS:": {"type": "string", "required":
+  false}, "DIVISION NAME:": {"type": "string", "required": false}, "Date:": {"type":
+  "string", "required": false}, "EFFECTIVENESS OF THE RETAIL (1 00 OFF CARTON) DISTRIBUTION
+  ALLOWANCE:": {"type": "string", "required": false}, "FROM:": {"type": "string",
+  "required": false}, "Fax Number:": {"type": "string", "required": false}, "From:":
+  {"type": "string", "required": false}, "INDEPENDENTS - ACCEPTANCE/ MERCHANDISING
+  ALLOWANCE": {"type": "string", "required": false}, "Ind/Lor Volume": {"type": "string",
+  "required": false}, "JUNE7": {"type": "string", "required": false}, "MANUFACTURER":
+  {"type": "string", "required": false}, "NON- DIRECT ACCOUNT CHAINS:": {"type": "string",
+  "required": false}, "NOV": {"type": "string", "required": false}, "Name of Account":
+  {"type": "string", "required": false}, "Number of Stores": {"type": "string", "required":
+  false}, "PARTIAL": {"type": "string", "required": false}, "PO": {"type": "string",
+  "required": false}, "PRICE POINT:": {"type": "string", "required": false}, "PRODUCT:":
+  {"type": "string", "required": false}, "Pages (Including cover page):": {"type":
+  "string", "required": false}, "SALES FORCE INVOLVEMENT:": {"type": "string", "required":
+  false}, "SPACE:": {"type": "string", "required": false}, "SUBJECT:": {"type": "string",
+  "required": false}, "TEST MARKET GEOGRAPHY": {"type": "string", "required": false},
+  "TO:": {"type": "string", "required": false}, "TYPE OF PACKINGS:": {"type": "string",
+  "required": false}, "To:": {"type": "string", "required": false}}, "name": "truth",
+  "required": true}]}'
+source: '{"tags": {"mlflow.user": "michael.berk", "mlflow.source.name": "/Users/michael.berk/opt/anaconda3/envs/odsc-3.10/lib/python3.10/site-packages/ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code
