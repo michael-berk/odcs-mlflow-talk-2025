@@ -1,0 +1,15 @@
+artifact_uri: /Users/michael.berk/dev/odsc/mlruns/689423257794616027/1fcf8f54871c46d581bb8f73dc7a871b/artifacts
+end_time: 1747108677784
+entry_point_name: ''
+experiment_id: '689423257794616027'
+lifecycle_stage: active
+run_id: 1fcf8f54871c46d581bb8f73dc7a871b
+run_name: serious-bear-411
+run_uuid: 1fcf8f54871c46d581bb8f73dc7a871b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747108670509
+status: 3
+tags: []
+user_id: michael.berk

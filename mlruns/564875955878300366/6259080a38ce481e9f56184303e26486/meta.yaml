@@ -1,0 +1,15 @@
+artifact_uri: /Users/michael.berk/dev/odsc/mlruns/564875955878300366/6259080a38ce481e9f56184303e26486/artifacts
+end_time: 1747108929959
+entry_point_name: ''
+experiment_id: '564875955878300366'
+lifecycle_stage: active
+run_id: 6259080a38ce481e9f56184303e26486
+run_name: bouncy-wasp-321
+run_uuid: 6259080a38ce481e9f56184303e26486
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747108826595
+status: 3
+tags: []
+user_id: michael.berk

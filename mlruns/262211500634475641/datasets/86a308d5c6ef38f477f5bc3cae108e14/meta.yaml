@@ -1,0 +1,35 @@
+digest: 102fe365
+name: dataset
+profile: '{"num_rows": 5, "num_elements": 10}'
+schema: '{"mlflow_colspec": [{"type": "string", "name": "inputs", "required": true},
+  {"type": "object", "properties": {"# REP": {"type": "string", "required": false},
+  "BRAND NAME:": {"type": "string", "required": false}, "BRAND(S) APPLICABLE": {"type":
+  "string", "required": false}, "CC:": {"type": "string", "required": false}, "CIRCULATION
+  DATES": {"type": "string", "required": false}, "CIRCULATION(#)": {"type": "string",
+  "required": false}, "CODE ASSIGNED": {"type": "string", "required": false}, "COUPON
+  EXPIRATION DATE": {"type": "string", "required": false}, "COUPON ISSUE DATE": {"type":
+  "string", "required": false}, "COUPON VALUE": {"type": "string", "required": false},
+  "DATE:": {"type": "string", "required": false}, "DEC 13": {"type": "string", "required":
+  false}, "DIVISION NAME:": {"type": "string", "required": false}, "EST. REDEMPTION":
+  {"type": "string", "required": false}, "FAX NO.:": {"type": "string", "required":
+  false}, "FAX NO:": {"type": "string", "required": false}, "FAX NOc.:": {"type":
+  "string", "required": false}, "FAX NOv": {"type": "string", "required": false},
+  "FROM:": {"type": "string", "required": false}, "FULL": {"type": "string", "required":
+  false}, "GEOGRAPHICAL AREA(S)": {"type": "string", "required": false}, "IND/LOR
+  VOLUME": {"type": "string", "required": false}, "JOB#": {"type": "string", "required":
+  false}, "MANUFACTURER:": {"type": "string", "required": false}, "MEDIA TYPE": {"type":
+  "string", "required": false}, "NAME OF ACCOUNT": {"type": "string", "required":
+  false}, "NO OF STORES": {"type": "string", "required": false}, "NO. OF STORES":
+  {"type": "string", "required": false}, "Name:": {"type": "string", "required": false},
+  "No": {"type": "string", "required": false}, "OTHER INFORMATION:": {"type": "string",
+  "required": false}, "PACK/CARTON": {"type": "string", "required": false}, "Pages
+  (Including Cover)": {"type": "string", "required": false}, "REPORTED BY:": {"type":
+  "string", "required": false}, "REQUIREMENTS": {"type": "string", "required": false},
+  "SIGNATURE OF INITIATOR": {"type": "string", "required": false}, "SOURCE OF INFORMATION:":
+  {"type": "string", "required": false}, "SUBJECT:": {"type": "string", "required":
+  false}, "TO:": {"type": "string", "required": false}, "Telecopier Nos.": {"type":
+  "string", "required": false}, "cc:": {"type": "string", "required": false}}, "name":
+  "truth", "required": true}]}'
+source: '{"tags": {"mlflow.user": "michael.berk", "mlflow.source.name": "/Users/michael.berk/opt/anaconda3/envs/odsc-3.10/lib/python3.10/site-packages/ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

@@ -1,0 +1,39 @@
+digest: 22ecc81e
+name: dataset
+profile: '{"num_rows": 5, "num_elements": 10}'
+schema: '{"mlflow_colspec": [{"type": "string", "name": "inputs", "required": true},
+  {"type": "object", "properties": {"ADVERTISING EFFECTIVENESS OF P. O. S.:": {"type":
+  "string", "required": false}, "BRAND:": {"type": "string", "required": false}, "CASE
+  NAME:": {"type": "string", "required": false}, "CASE TYPE:": {"type": "string",
+  "required": false}, "CHAINS ACCEPTANCE/ MERCHANDISING:": {"type": "string", "required":
+  false}, "CONDITION OF SHIPMENT:": {"type": "string", "required": false}, "COURT:":
+  {"type": "string", "required": false}, "DATE SERVED": {"type": "string", "required":
+  false}, "DATE:": {"type": "string", "required": false}, "DATES:": {"type": "string",
+  "required": false}, "DISTRIBUTORS ACCEPTANCE INTRO TERMS INTRO DEALS INVOLVEMENT:":
+  {"type": "string", "required": false}, "EXPIRATION DATE:": {"type": "string", "required":
+  false}, "FAX NO.:": {"type": "string", "required": false}, "FAX NO:": {"type": "string",
+  "required": false}, "FAX NOc.:": {"type": "string", "required": false}, "FAX NOv":
+  {"type": "string", "required": false}, "FROM:": {"type": "string", "required": false},
+  "GROSS WEIGHT": {"type": "string", "required": false}, "INDEPENDENTS ACCEPTANCE/
+  MERCHANDISING:": {"type": "string", "required": false}, "LORILLARD ENTITIES": {"type":
+  "string", "required": false}, "LOT #:": {"type": "string", "required": false}, "MANUFACTURER:":
+  {"type": "string", "required": false}, "NET WEIGHT (if provided):": {"type": "string",
+  "required": false}, "NO. OF CONTAINERS:": {"type": "string", "required": false},
+  "Name:": {"type": "string", "required": false}, "No": {"type": "string", "required":
+  false}, "Nov.": {"type": "string", "required": false}, "PHYSICAL DESCRIPTION:":
+  {"type": "string", "required": false}, "PLAINTIEE''S COUNSEL:": {"type": "string",
+  "required": false}, "PRICE POINT:": {"type": "string", "required": false}, "Pages
+  (Including Cover)": {"type": "string", "required": false}, "RECEIVED BY:": {"type":
+  "string", "required": false}, "SALES FORCE INVOLVEMENT:": {"type": "string", "required":
+  false}, "SHIPPED VIA": {"type": "string", "required": false}, "SIGATURE OF DEPARTMENT
+  CONSIGNEE:": {"type": "string", "required": false}, "SPECIAL HANDLING REQUIREMENTS:":
+  {"type": "string", "required": false}, "SPONSOR''S NAME:": {"type": "string", "required":
+  false}, "STUDY DIRECTOR /DEPARTMENT": {"type": "string", "required": false}, "TA
+  #:": {"type": "string", "required": false}, "TEST ARTICLE IDENTIFICATION:": {"type":
+  "string", "required": false}, "TEST MARKET GEOGRAPHY:": {"type": "string", "required":
+  false}, "TO:": {"type": "string", "required": false}, "TYPE OF PACKINGS:": {"type":
+  "string", "required": false}, "Telecopier Nos.": {"type": "string", "required":
+  false}}, "name": "truth", "required": true}]}'
+source: '{"tags": {"mlflow.user": "michael.berk", "mlflow.source.name": "/Users/michael.berk/opt/anaconda3/envs/odsc-3.10/lib/python3.10/site-packages/ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

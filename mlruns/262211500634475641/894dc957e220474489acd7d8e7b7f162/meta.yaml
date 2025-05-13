@@ -1,0 +1,15 @@
+artifact_uri: /Users/michael.berk/dev/odsc/mlruns/262211500634475641/894dc957e220474489acd7d8e7b7f162/artifacts
+end_time: 1747108746774
+entry_point_name: ''
+experiment_id: '262211500634475641'
+lifecycle_stage: active
+run_id: 894dc957e220474489acd7d8e7b7f162
+run_name: omniscient-trout-165
+run_uuid: 894dc957e220474489acd7d8e7b7f162
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747108700993
+status: 3
+tags: []
+user_id: michael.berk

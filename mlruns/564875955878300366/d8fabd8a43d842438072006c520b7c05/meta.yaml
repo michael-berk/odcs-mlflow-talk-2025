@@ -1,0 +1,15 @@
+artifact_uri: /Users/michael.berk/dev/odsc/mlruns/564875955878300366/d8fabd8a43d842438072006c520b7c05/artifacts
+end_time: 1747108825439
+entry_point_name: ''
+experiment_id: '564875955878300366'
+lifecycle_stage: active
+run_id: d8fabd8a43d842438072006c520b7c05
+run_name: bold-moose-981
+run_uuid: d8fabd8a43d842438072006c520b7c05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747108805461
+status: 3
+tags: []
+user_id: michael.berk
