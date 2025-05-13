@@ -16,8 +16,10 @@ def _set_openai_api_key_for_demo() -> bool:
         with open("/Users/michael.berk/Desktop/openai_api_key.txt", "r") as f:
             os.environ["OPENAI_API_KEY"] = f.read().strip()
             return True
-    finally:
-        return False
+    except Exception:
+        pass
+    
+    return False
 
 def _compress_image(file_path: str, quality: int = 40, max_size: tuple[int, int] = (1000, 1000)) -> bytes:
     """Compresses an image by resizing and converting to JPEG with given quality."""
